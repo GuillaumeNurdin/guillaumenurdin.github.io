@@ -1,3 +1,3 @@
 # Guillaume Nurdin
 
-## .Net Dev @ Soat (Soat.md)
+## .Net Dev @ [Soat](Soat.md)
