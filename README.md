@@ -1,3 +1,3 @@
 # Guillaume Nurdin
 
-## .Net Dev & Software Cratsman @ [Soat](@SoatGroup)
+## .Net Dev & Software Craftsman @ [Soat](@SoatGroup)
