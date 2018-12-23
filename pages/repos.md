@@ -1,5 +1,5 @@
 ---
-title: Des dépôts github utiles
+title: Des dépôts GitHub utiles
 layout: page
 ---
 
