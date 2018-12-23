@@ -1,7 +1,11 @@
 theme: minima
-title: hello
-description : GNU
+author: Guillaume Nurdin
+title: About Software Development
+description : Links, blog posts, repo, books to improve Software Development skills
 
 github_username: GuillaumeNurdin
 linkedin_username: GuillaumeNurdin
 twitter_username: GuillaumeNurdin
+header_pages:
+  - about.md
+  - soat.md
