@@ -8,4 +8,5 @@ linkedin_username: GuillaumeNurdin
 twitter_username: GuillaumeNurdin
 header_pages:
   - about.md
-  - soat.md
+  - Soat.md
+exclude: ['README.md']
