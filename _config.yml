@@ -7,6 +7,6 @@ github_username: GuillaumeNurdin
 linkedin_username: GuillaumeNurdin
 twitter_username: GuillaumeNurdin
 header_pages:
-  - about.md
+  - About.md
   - Soat.md
-exclude: ['README.md']
+
