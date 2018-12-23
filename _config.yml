@@ -6,3 +6,6 @@ description : Links, blog posts, repo, books to improve Software Development ski
 github_username: GuillaumeNurdin
 linkedin_username: GuillaumeNurdin
 twitter_username: GuillaumeNurdin
+header_pages:
+  - About.md
+  - Soat.md
