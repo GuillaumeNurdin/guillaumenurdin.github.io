@@ -1,1 +1,1 @@
-Site: (http:/:guillaumenurdin.github.io)
+Site: http://guillaumenurdin.github.io
