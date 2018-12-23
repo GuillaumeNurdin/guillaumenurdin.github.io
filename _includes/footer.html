@@ -7,21 +7,18 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <div class="contact-list">
-          <span class="p-name">
+        <ul class="contact-list">
+          <li class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
-            </span>
+            </li>
             {%- if site.email -%}
-            <span><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></span>
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
-        </div>
-       
-      </div>
-      <div class="footer-col footer-col-2">
+        </ul>
         {%- include social.html -%}
       </div>
       <div class="footer-col footer-col-3">
