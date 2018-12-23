@@ -1,6 +1,5 @@
 ---
 title: Hello
-layout: default
 ---
 
 # Guillaume Nurdin
