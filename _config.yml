@@ -9,3 +9,4 @@ twitter_username: GuillaumeNurdin
 header_pages:
   - About.md
   - Soat.md
+exclude: ['README.md']
