@@ -1,0 +1,15 @@
+---
+layout: page
+---
+{{ content }}
+{% assign links_grouped = site.links | where:"type", page.type | group_by: 'category' %}
+{% for group in links_grouped %}
+<h2>{{group.name}}</h2>
+<ul>
+{% for link in group.items %}
+<li>{{link.content}}
+    <p><a href="{{link.link}}">{{link.name}}</a></p>
+</li>
+{% endfor %}
+</ul>
+{% endfor %}

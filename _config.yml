@@ -1,7 +1,7 @@
 theme: minima
 author: Guillaume Nurdin
-title: About Software Development
-description : Links, blog posts, repo, books to improve Software Development skills
+title: I'm a Software Developer
+description : Links, blog posts, repo and books to improve Software Development skills
 
 github_username: GuillaumeNurdin
 linkedin_username: GuillaumeNurdin
@@ -10,3 +10,6 @@ header_pages:
   - About.md
   - Soat.md
 exclude: ['README.md']
+collections:
+  - links
+  - summaries
