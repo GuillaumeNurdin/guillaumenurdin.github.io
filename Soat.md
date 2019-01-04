@@ -1,5 +1,5 @@
 ---
 title: A propos de SOAT
-layout: page
+layout: single
 ---
 # Soat

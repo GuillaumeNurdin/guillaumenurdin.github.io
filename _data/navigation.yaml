@@ -1,0 +1,7 @@
+docs:
+  - title: Les différentes listes
+    children:
+      - title: "Les repos"
+        url: /pages/repos/
+      - title: "les livres"
+        url: /pages/books/
