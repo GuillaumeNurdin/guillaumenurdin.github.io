@@ -5,5 +5,6 @@ type: repo
 category: Documentation & links
 topic: Microsoft, Guidelines
 summary: true
+author: Microsoft
 ---
 Les bonnes pratiques de Microsoft en matière d'API REST

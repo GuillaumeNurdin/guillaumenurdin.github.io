@@ -8,7 +8,12 @@ layout: page
 <ul>
 {% for link in group.items %}
 <li>{{link.content}}
-    <p><a href="{{link.link}}">{{link.name}}</a></p>
+    <p>
+        <a href="{{link.link}}">{{link.name}}</a>
+        {%- if link.author -%}
+        <span class="post-meta">  {{link.author}}</span>
+        {%- endif -%}
+    </p>
 </li>
 {% endfor %}
 </ul>

@@ -4,6 +4,6 @@ link: https://github.com/quozd/awesome-dotnet
 type: repo
 topic: .NET
 category: Documentation & links
-summary: true
+author: Vitali Fokin (quozd)
 ---
 Une liste de repos d'utilitaire en .NET
