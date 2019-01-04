@@ -1,8 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes@4.14.2"
 repository: guillaumenurdin/guillaumenurdin.github.io
+author: Guillaume Nurdin
+remote_theme: "mmistakes/minimal-mistakes@4.14.2"
+repository: guillaumenurdin/guillaumenurdin.github.io
 title: I'm a Software Developer
 description : Links, blog posts, repo and books to improve Software Development skills
-
 github_username: GuillaumeNurdin
 linkedin_username: GuillaumeNurdin
 twitter_username: GuillaumeNurdin
