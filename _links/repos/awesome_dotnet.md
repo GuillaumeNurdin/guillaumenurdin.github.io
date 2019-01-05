@@ -2,7 +2,7 @@
 name: Awesome .NET!
 link: https://github.com/quozd/awesome-dotnet
 type: repo
-topic: .NET
+topic: [.NET, Tools]
 category: Documentation & links
 author: Vitali Fokin (quozd)
 ---
