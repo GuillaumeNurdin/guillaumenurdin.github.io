@@ -17,7 +17,7 @@ plugins:
   - jekyll-include-cache
 author:
   name     : Guillaume Nurdin
-  avatar   : "/assets/images/me.jpg"
+  avatar   : "/assets/images/me.JPG"
   bio      : "Développeur, plutôt .NET et Web, inspiré par le Software Craftsmanship, Agile & Co. Je travaille chez SOAT."
   location : "Paris, France"
   links:
