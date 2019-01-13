@@ -5,3 +5,19 @@ docs:
         url: /pages/repos/
       - title: "les livres"
         url: /pages/books/
+
+main:
+  - title: "Qui suis-je?"
+    url: //About.html
+  - title: "Mes articles"
+    url: /posts
+  - title: "Les dernières mises à jour"
+    url: /news
+  - title: "A propos de SOAT"
+    url: /Soat.html
+  - title: "Les livres"
+    url: /books
+  - title: "Les repos"
+    url: /repos
+  - title: "les articles"
+    url: /articles
