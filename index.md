@@ -48,6 +48,7 @@ feature_row2:
     btn_class: "btn--inverse"
     
 ---
+[Under Construction]
 Je partage ici les liens, repos, livres, etc. qui m'aident ou m'ont aidé à améliorer mes compétences de développeur.
 
 {% include feature_row %}
