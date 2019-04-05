@@ -1,15 +1,18 @@
 author: Guillaume Nurdin
-remote_theme: "mmistakes/minimal-mistakes@4.14.2"
+remote_theme: "mmistakes/minimal-mistakes@4.15.2"
 repository: guillaumenurdin/guillaumenurdin.github.io
 title: I'm a Software Developer
 description : Links, blog posts, repo and books to improve Software Development skills
 github_username: GuillaumeNurdin
 linkedin_username: GuillaumeNurdin
 twitter_username: GuillaumeNurdin
+url: "http://guillaumenurdin.github.io"
 header_pages:
   - About.md
   - Soat.md
 exclude: ['README.md']
+include:
+  - _pages
 collections:
   - links
   - summaries
@@ -38,10 +41,11 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmisguillaumenurdintakes"
+      url: "https://twitter.com/guillaumenurdin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/guillaumenurdin"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/guillaumenurdin/"
+permalink: /posts/:title/

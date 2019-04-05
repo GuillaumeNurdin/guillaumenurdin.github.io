@@ -1,12 +1,13 @@
 ---
-title: Les livres 
+title: Les articles 
 layout: single
-type: book
+type: article
 toc: true
 toc_label: "Dans cette page"
 toc_icon: "cog"
 sidebar:
-  nav: "docs"
+  nav: "navigation"
+permalink: /articles/
 ---
-Voici une liste des livres indispensables à lire.
+Les articles
 {% include links_collection.md %}

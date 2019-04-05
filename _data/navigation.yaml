@@ -1,23 +1,23 @@
-docs:
+navigation:
   - title: Les différentes listes
     children:
       - title: "Les repos"
-        url: /pages/repos
+        url: /repos
       - title: "les livres"
-        url: /pages/books
+        url: /books
 
 main:
   - title: "Qui suis-je?"
-    url: /About.html
+    url: /about
   - title: "Mes articles"
     url: /posts
   - title: "Les dernières mises à jour"
     url: /news
   - title: "A propos de SOAT"
-    url: /Soat.html
+    url: /soat
   - title: "Les livres"
-    url: /pages/books
+    url: /books
   - title: "Les repos"
-    url: /pages/repos
+    url: /repos
   - title: "Les articles"
     url: /articles
