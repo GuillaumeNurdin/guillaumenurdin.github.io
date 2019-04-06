@@ -2,15 +2,32 @@ navigation:
   - title: Les différentes listes
     children:
       - title: "Les repos"
-        url: /repos
+        url: /repos/
       - title: "Les livres"
-        url: /books
+        url: /books/
       - title: "Les articles"
-        url: /articles
+        url: /articles/
       - title: "Les vidéos & podcasts"
-        url: /videos-podcasts
-      - title: "Les source de veille"
-        url: /sources
+        url: /videos-podcasts/
+      - title: "Les sources de veille"
+        url: /sources/
+  - title: Les autres pages
+    children:
+      - title: "Mes articles"
+        url: /posts/
+      - title: "Qui suis-je?"
+        url: /about/
+      - title: "A propos de SOAT"
+        url: /soat/
+  - title : Mes Articles
+    children:
+      - title: "Pourquoi ce site?"
+        url: /posts/pourquoi-ce-site/
+  - title : Par sujets
+    children:
+      - title: Microsoft
+        url: /topics/microsoft
+      
 
 main:
   - title: "Qui suis-je?"
@@ -29,5 +46,5 @@ main:
     url: /articles
   - title: "Les vidéos & podcasts"
     url: /videos-podcasts
-  - title: "Les source de veille"
+  - title: "Les sources de veille"
     url: /sources

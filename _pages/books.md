@@ -10,4 +10,4 @@ sidebar:
 permalink: /books/
 ---
 Voici une liste des livres indispensables à lire.
-{% include links_collection.md %}
+{% include links_collection_groupby_category.md%}

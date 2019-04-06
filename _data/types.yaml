@@ -1,0 +1,15 @@
+book:
+  label: Les livres
+  fa: fas fa-book
+repo:
+  label: Les repos Github
+  fa: fab fa-github
+video:
+  label: Les vidéos
+  fa: fab fa-youtube
+podcast:
+  label: Les podcasts
+  fa: fas fa-podcast
+source:
+  label : Mes sources de veille
+  fa: fab fa-staylinked

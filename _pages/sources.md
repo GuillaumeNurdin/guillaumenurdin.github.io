@@ -10,4 +10,4 @@ sidebar:
 permalink : /sources/
 ---
 Mes sources
-{% include links_collection.md %}
+{% include links_collection_groupby_category.md %}

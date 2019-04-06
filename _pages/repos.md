@@ -10,4 +10,4 @@ sidebar:
 permalink : /repos/
 ---
 Voici une liste vivante des dépôts github qui pourraient vous intéresser vous aussi.
-{% include links_collection.md %}
+{% include links_collection_groupby_category.md %}
