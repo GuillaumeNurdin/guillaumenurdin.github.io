@@ -5,6 +5,12 @@ navigation:
         url: /repos
       - title: "les livres"
         url: /books
+      - title: "les articles"
+        url: /articles
+      - title: "les vidéos & podcasts"
+        url: /videos-podcasts
+      - title: "les source de veille"
+        url: /sources
 
 main:
   - title: "Qui suis-je?"
@@ -21,3 +27,7 @@ main:
     url: /repos
   - title: "Les articles"
     url: /articles
+  - title: "les vidéos & podcasts"
+    url: /videos-podcasts
+  - title: "les source de veille"
+    url: /sources

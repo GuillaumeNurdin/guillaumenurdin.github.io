@@ -2,3 +2,7 @@ book:
   fa: fas fa-book
 repo:
   fa: fab fa-github
+video:
+  fa: fab fa-youtube
+podcast:
+  fa: fas fa-podcast

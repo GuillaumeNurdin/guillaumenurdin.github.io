@@ -9,5 +9,10 @@ sidebar:
   nav: "navigation"
 permalink : /videos-podcasts/
 ---
-les videos & podcasts
-{% include links_collection.md %}
+## Les vidéos
+{% assign links_filtered = site.links | where:"type", 'video' %}
+{% include links_collection_simple.md %}
+
+## les podcasts
+{% assign links_filtered = site.links | where:"type", 'podcast' %}
+{% include links_collection_simple.md %}
