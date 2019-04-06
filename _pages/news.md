@@ -1,10 +1,11 @@
 ---
-title: "Les derniers liens ajoutés"
+title: "Les derniers ajouts"
 layout: single
 permalink: /news/
-toc: true
-toc_label: "Dans cette page"
-toc_icon: "cog"
 sidebar:
   nav: "navigation"
 ---
+Retrouvez ici les 10 derniers liens, livres & co que j'ai ajoutés.
+
+{% assign links = site.links| slice :0,5 | sort : date %}
+{% include links_loop.md %}

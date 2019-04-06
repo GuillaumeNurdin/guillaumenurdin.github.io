@@ -7,21 +7,17 @@ github_username: GuillaumeNurdin
 linkedin_username: GuillaumeNurdin
 twitter_username: GuillaumeNurdin
 url: "http://guillaumenurdin.github.io"
-header_pages:
-  - About.md
-  - Soat.md
 exclude: ['README.md']
 include:
   - _pages
 collections:
   - links
-  - summaries
 plugins:
   - jekyll-include-cache
 author:
   name     : Guillaume Nurdin
   avatar   : "/assets/images/me.JPG"
-  bio      : "Développeur, plutôt .NET et Web, inspiré par le Software Craftsmanship, Agile & Co. Je travaille chez SOAT."
+  bio      : "Développeur, plutôt .NET, Web et Azure, inspiré par le Software Craftsmanship, Agile, DevOps & Co.<br/>Je travaille chez SOAT."
   location : "Paris, France"
   links:
     - label: "Twitter"
