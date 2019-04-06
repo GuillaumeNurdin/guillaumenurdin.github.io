@@ -3,13 +3,13 @@ navigation:
     children:
       - title: "Les repos"
         url: /repos
-      - title: "les livres"
+      - title: "Les livres"
         url: /books
-      - title: "les articles"
+      - title: "Les articles"
         url: /articles
-      - title: "les vidéos & podcasts"
+      - title: "Les vidéos & podcasts"
         url: /videos-podcasts
-      - title: "les source de veille"
+      - title: "Les source de veille"
         url: /sources
 
 main:
@@ -27,7 +27,7 @@ main:
     url: /repos
   - title: "Les articles"
     url: /articles
-  - title: "les vidéos & podcasts"
+  - title: "Les vidéos & podcasts"
     url: /videos-podcasts
-  - title: "les source de veille"
+  - title: "Les source de veille"
     url: /sources
