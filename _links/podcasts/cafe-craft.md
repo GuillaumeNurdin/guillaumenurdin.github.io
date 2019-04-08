@@ -2,7 +2,7 @@
 name: Café Craft
 link: https://www.cafe-craft.fr/
 type: podcast
-topic: [Software Craftsmanship, Métier]
+topic: [Software Craftsmanship, Job]
 category: Software Craftsmanship
 author: Thomas WICKHAM
 date: 2019-04-01

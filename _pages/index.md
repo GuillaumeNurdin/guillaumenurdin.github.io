@@ -7,7 +7,7 @@ feature_row:
   - image_path: "/assets/images/books.jpg"
     alt: "Mes recommandations de lecture"
     title: "Les bouquins à lire"
-    excerpt: "Retrouvez dans cette liste des livres sur qui traitent de développement mais pas seulement."
+    excerpt: "Retrouvez dans cette liste des livres qui traitent de développement mais pas seulement."
     url: "/books"
     btn_label: "La bibliothèque"
     btn_class: "btn--inverse"

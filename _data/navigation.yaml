@@ -11,6 +11,34 @@ navigation:
         url: /videos-podcasts/
       - title: "Les sources de veille"
         url: /sources/
+  - title : Par sujets
+    children:
+      - title: Microsoft
+        url: /topics/microsoft
+      - title: Architecture
+        url: /topics/architecture
+      - title: Clean Code
+        url: /topics/clean-code
+      - title: DDD
+        url: /topics/ddd
+      - title: Guidelines
+        url: /topics/guidelines
+      - title: Notre métier
+        url: /topics/job
+      - title: Les listes liens
+        url: /topics/links
+      - title: .Net
+        url: /topics/net
+      - title: Les exemples de code
+        url: /topics/sample
+      - title: Le craft
+        url: /topics/software-craftsmanship
+      - title: Les outils
+        url: /topics/tools
+  - title : Mes Articles
+    children:
+      - title: "Pourquoi ce site?"
+        url: /posts/pourquoi-ce-site/  
   - title: Les autres pages
     children:
       - title: "Mes articles"
@@ -18,16 +46,7 @@ navigation:
       - title: "Qui suis-je?"
         url: /about/
       - title: "A propos de SOAT"
-        url: /soat/
-  - title : Mes Articles
-    children:
-      - title: "Pourquoi ce site?"
-        url: /posts/pourquoi-ce-site/
-  - title : Par sujets
-    children:
-      - title: Microsoft
-        url: /topics/microsoft
-      
+        url: /soat/  
 
 main:
   - title: "Qui suis-je?"

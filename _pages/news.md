@@ -7,5 +7,5 @@ sidebar:
 ---
 Retrouvez ici les 10 derniers liens, livres & co que j'ai ajoutés.
 
-{% assign links = site.links| slice :0,5 | sort : date %}
+{% assign links = site.links| slice :0,10 | sort : date %}
 {% include links_loop.md %}
