@@ -58,3 +58,4 @@ J'espère que vous trouverez sur ce site des ressources qui vous seront utiles.
 
 {% include feature_row id="feature_row2" %}
 
+{% include meetup.md %}

@@ -1,0 +1,2 @@
+Les meetups sont aussi le meilleur moyen de rencontrer des experts passionnés qui aiment partager leur expérience. N'hésitez pas à vous rendre sur [meetup.com](http://www.meetup.com){:target="_blank"} pour découvrir ceux qui vous intéressent le plus, et allez-y!
+{: .notice--success}

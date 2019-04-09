@@ -1,0 +1,1 @@
+<i class="{{site.data.types[icon].fa}}" aria-hidden="true"></i>

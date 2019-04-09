@@ -13,3 +13,6 @@ podcast:
 source:
   label : Mes sources de veille
   fa: fab fa-staylinked
+article:
+  label: Les articles
+  fa: far fa-newspaper

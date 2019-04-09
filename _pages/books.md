@@ -9,5 +9,8 @@ sidebar:
   nav: "navigation"
 permalink: /books/
 ---
-Voici une liste des livres indispensables à lire.
+{% include page_icon.md%}
+Les livres (souvent en anglais, rarement traduits) sont une très bonne source d'apprentissage. Ils permettent d'apporter de la théorie en généralisant des pratiques que nous avons déjà mais bien souvent aussi de découvrir d'autres façons de travailler. Les livres sur les technologies ne me semblent pas toujours aussi indispensables pour progresser mais ils peuvent être utiles tout de même s'ils sont bien écrits.
+{: .notice--info}
+
 {% include links_collection_groupby_category.md%}
