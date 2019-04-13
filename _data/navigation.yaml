@@ -1,15 +1,15 @@
 navigation:
   - title: Les différentes listes
     children:
-      - title: "Les repos"
-        url: /repos/
-      - title: "Les livres"
+      - title: "<i class=\"fas fa-book\" aria-hidden=\"true\"></i> Les livres"
         url: /books/
-      - title: "Les articles"
+      - title: "<i class=\"fab fa-github\" aria-hidden=\"true\"></i> Les repos GitHub"
+        url: /repos/
+      - title: "<i class=\"far fa-newspaper\" aria-hidden=\"true\"></i> Les articles"
         url: /articles/
-      - title: "Les vidéos & podcasts"
+      - title: "<i class=\"fab fa-youtube\" aria-hidden=\"true\"></i> Les vidéos & podcasts"
         url: /videos-podcasts/
-      - title: "Les sources de veille"
+      - title: "<i class=\"fab fa-staylinked\" aria-hidden=\"true\"></i> Les sources de veille"
         url: /sources/
   - title : Par sujets
     children:
@@ -36,13 +36,16 @@ navigation:
       - title: Les outils
         url: /topics/tools
   - title : Mes Articles
+    url: /posts/
     children:
       - title: "Pourquoi ce site?"
-        url: /posts/pourquoi-ce-site/  
+        url: /posts/pourquoi-ce-site/
+      - title: "Tous mes articles"
+        url: /posts/      
   - title: Les autres pages
     children:
-      - title: "Mes articles"
-        url: /posts/
+      - title: "Les dernières mises à jour"
+        url: /news
       - title: "Qui suis-je?"
         url: /about/
       - title: "A propos de SOAT"
